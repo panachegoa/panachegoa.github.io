@@ -9,7 +9,7 @@
         <div class="col-lg-2 col-lg-offset-2 text-center">
             <a href="tel:+1-562-867-5309">+1-562-867-5309</a>
                 <i class="fa fa-phone fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.phone_username }}</p>
+                <p>{{ site.twitter_username }}</p>
             </a>
         </div>
         <div class="col-lg-2 col-lg-offset-1 text-center">
@@ -17,11 +17,13 @@
             <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>{{ site.email }}</p>
             </a>
-        </div>      
+        </div>
+s
+	<!--        
 	<div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="https://facebook.com/{{ site.facebook_username }}">
-            <i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.facebook_username }}</p>
+            <a href="https://github.com/{{ site.github_username }}">
+            <i class="fa fa-github fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ site.github_username }}</p>
             </a>
         </div>
 	-->
